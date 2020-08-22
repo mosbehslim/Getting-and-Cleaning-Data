@@ -7,7 +7,7 @@ output: html_document
 
 
 
-## R Markdown
+## Getting and Cleaning Data : Course Project
 -The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone
 
 - The measurments were divided in two files : train.txt and test.txt
